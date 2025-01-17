@@ -1,0 +1,86 @@
+﻿body {
+    background-color: #171616;
+}
+.main {
+    margin: auto;
+    width: 1000px;
+}
+
+.fleft {
+    float: left;
+}
+
+.fright {
+    float: right;
+}
+.panel {
+    width: 180px;
+    padding: 10px;
+    height: 780px;
+    background-color: #232222;
+}
+.area {
+    width: 800px;
+}
+.portrait {
+    width: 178px;
+    border: 1px solid #fff;
+    height: 178px;
+}
+
+.hide {
+    display: none;
+}
+
+.capt {
+    color: #fff;
+    font-weight: bold;
+    width: 90px;
+}
+
+.val {
+    color: #00ff21;
+    display: inline-block;
+}
+
+.clear{
+    clear: both;
+}
+
+.mark-panel {
+    width: 62px;
+    height: 4px;
+    border: 1px solid #ffffff;
+    
+}
+
+.mark {
+    width: 60px;
+    height: 2px;
+    background: green;
+    border-color: green;
+}
+
+.dialog {
+    width: 600px;
+    height: 305px;
+    padding: 10px;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -300px;
+    margin-top: -150px;
+    background-color: #232222;
+    border: 2px solid #fff;
+    border-radius: 10px;
+}
+
+.text {
+    padding: 20px;
+    width: 360px;
+}
+
+.picture {
+    width: 200px;
+}
